@@ -2,4 +2,4 @@
 Мои домашние задания
 
 
-[Урок_12](аhttps://yuliyakastsiuk.github.io/Lesson_12/github/src/ "Мое Д/З")
+[Урок_12](https://yuliyakastsiuk.github.io/Lesson_12/github/src/ "Мое Д/З")- Работа с депозиторием на gitHub 
