@@ -1,0 +1,68 @@
+.container{
+	position:relative;
+	
+}
+.main{
+ 	position:absolute;
+ 	left:285px;
+	top:45px;
+}
+.back{
+	position:relative;
+	left:285px;
+	top:45px;
+}
+.form{
+	position:relative;
+	top:196px;
+	left:-280px;
+}
+.account{
+	position:relative;
+	color:#fbfdfd;
+	top:140px;
+	left: -130px;
+	background-color: #01b3b3;
+	width: 150px;
+	height: 25px;
+	font-size: 12px;
+	font-weight: bold;
+	font-family: Area;
+	text-transform: uppercase;
+	padding-left: 10px;
+	padding-right: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+
+}
+.form input{
+	margin-bottom: 15px;
+	background-color: transparent;
+	width: 262px;
+	height: 32px;
+
+
+}
+
+
+sup{
+	color: #01b3b3;
+}
+.form-header{
+	margin-bottom: 10px;
+	font-size: 12px;
+	font-weight: bold;
+	font-family: Area;
+}
+.form-btn{
+	background-color: #01c5c5;
+	color: #fbfdfd;
+	margin:10px auto;
+	text-transform: uppercase;
+	font-size: 16px;
+	font-weight: bold;
+	font-family: Area;
+	margin-top: 35px;
+	width:260;
+	height: 45px;
+}	
