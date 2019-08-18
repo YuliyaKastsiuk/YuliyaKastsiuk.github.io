@@ -9,5 +9,5 @@
 [Practice_Part2](https://yuliyakastsiuk.github.io/src/ "Мое Д/З") - Практическая часть 2   
 [Урок_15](https://yuliyakastsiuk.github.io/Project_Lesson_15/ "Мое Д/З")- Псевдоклассы и псевдоэлементы.   
 [Practice_Part3](https://yuliyakastsiuk.github.io/Practice_Part_3/src/ "Мое Д/З") - Практическая часть 3  
-[Урок_16](https://yuliyakastsiuk.github.io/Project_Lesson_16/ "Мое Д/З")- Слайдер на сайте. 
+[Урок_16](https://yuliyakastsiuk.github.io/Project_Lesson_16/ "Мое Д/З")- Слайдер на сайте.   
 [Practice_Part4](https://yuliyakastsiuk.github.io/Practice_Part_4/src/ "Мое Д/З") - Практическая часть 4  
