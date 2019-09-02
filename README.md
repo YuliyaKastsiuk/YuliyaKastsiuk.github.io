@@ -12,3 +12,4 @@
 [Урок_16](https://yuliyakastsiuk.github.io/Project_Lesson_16/ "Мое Д/З")- Слайдер на сайте.   
 [Practice_Part4](https://yuliyakastsiuk.github.io/Practice_Part_4/src/ "Мое Д/З") - Практическая часть 4  
 [Урок_17](https://yuliyakastsiuk.github.io/Project_Lesson_17/ "Мое Д/З")- Всплывающее окно.  
+[Practice_Part5](https://yuliyakastsiuk.github.io/Practice_Part_5/src/ "Мое Д/З") - Практическая часть 5 
